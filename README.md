@@ -1,10 +1,10 @@
 [![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
-[![rank](https://make.fun/badge/token-radar-01/binasalama12/makefun-token-radar-01-w5-rev2/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/binasalama12/makefun-token-radar-01-w1-rev3/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
-[![reward](https://make.fun/badge/token-radar-01/binasalama12/makefun-token-radar-01-w5-rev2/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/binasalama12/makefun-token-radar-01-w1-rev3/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
-# Undertow — Huber size curve walk-forward tested, farm plans netted to break-even
+# Undertow — Huber size curve plus a Brier-scored listing-odds chain, farm plans netted to break-even
 
 A token launch radar for make.fun's token-radar-01 bounty. It prices every
 pre-token protocol off the tokens that already trade in the same snapshot,
